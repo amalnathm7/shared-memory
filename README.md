@@ -1,3 +1,11 @@
 # shared_memory
 
-Shared memory is accessed using two threads (producer and consumer) in C language.
+Inter Process Communication (IPC) is implemented using shared memory in C language.
+
+### References
+
+https://en.wikipedia.org/wiki/Inter-process_communication
+
+https://en.wikipedia.org/wiki/Shared_memory
+
+https://www.geeksforgeeks.org/ipc-shared-memory/
